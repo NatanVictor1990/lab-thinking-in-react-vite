@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.IDCARD{
+  margin: 3px;
+  border: 1px solid black;
+  display: flex;
+  width: 500px;
+  height: 250px;
+}
+.info{
+  font-size: 15px;
+
+}
